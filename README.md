@@ -38,7 +38,7 @@
 1.	Link the target fixture to the main fixture via a DMX 5-pin connection. Ensure that the target fixture is turned off.
 2.	Turn on the main fixture and set its protocol to DMX512.
 3.	Plug the flash drive into the USB-C port of the main fixture.
-4.	Go to Upgrade Firmware on the menu map.
+4.	Go to **Upgrade Firmware** on the menu map.
 5.	Choose between **Multiple Fixture** and **Other Fixture Type**. Press **< ENTER >**.
       * **Multiple Fixture** : Both the target fixture and main fixture are from the same product line (e.g., 2 Color STRIKE M fixtures).
       * **Other Fixture Type**: The target fixture and main fixture are from different product series (e.g., a Color STRIKE M as the target fixture and a Maverick Silens 2 Profile as the main fixture).
@@ -53,4 +53,4 @@
 * A Force Upload process requires a target fixture (the fixture that needs a Force Upload and a main fixture (the fixture that controls the upload process).
 * The Force Upload process can only be done one target fixture at a time.
 
-&nbsp;
+
