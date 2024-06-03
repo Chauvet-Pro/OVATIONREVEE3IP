@@ -43,8 +43,9 @@
       * **Multiple Fixture** : Both the target fixture and main fixture are from the same product line (e.g., 2 Color STRIKE M fixtures).
       * **Other Fixture Type**: The target fixture and main fixture are from different product series (e.g., a Color STRIKE M as the target fixture and a Maverick Silens 2 Profile as the main fixture).
 6.	Select the file that needs to be uploaded. The message ***“Are you sure?”*** will appear on the screen. Press **< ENTER >**. Turn on the target fixture within 1–2 seconds of pressing **< ENTER >**. The display on the target fixture should remain off.
-      a. The main fixture will show the update progress (0–100%).
-      b. The target fixture’s display will turn on, and a notification ***“< UPDATE >”*** will appear on the screen.
+   >a. The main fixture will show the update progress (0–100%).
+
+   >b. The target fixture’s display will turn on, and a notification ***“< UPDATE >”*** will appear on the screen.
 7.	DO NOT turn off power or remove the USB flash drive. Once the software is done uploading, the target fixture will automatically reboot.
 8.	Go to the target fixture’s main menu and confirm that the firmware version has been updated.
 9.	Reboot the target fixture.
