@@ -14,13 +14,14 @@
 &nbsp; 
 
 ## USB Software Update Instructions
+## USB Software Update Instructions
 1. Power on the product and plug the flash drive into the USB port.
 2. Once the flash drive has been detected, the message "**Upgrade Firmware**" will be displayed. Press **< ENTER >**.
-   >If a different message appears on the display, search for the updated software in the main menu (**Update Firmware**) and select from ***Only This Unit***, ***Multiple Fixture***, or ***Other Fixture Type***. A list of the updated software files will be displayed.
+   >If a different message appears on the display, search for the updated software in the main menu (**Update Firmware**) and select from ***Only This Fixture***, ***Multiple Fixture***, or ***Other Fixture Type***, and ***Fixture to Fixture***. A list of the updated software files will be displayed.
+   >When ***Fixture to Fixture*** option is chosen, a warning will pop up: *Make sure no other signal, Network, or DMX controller is being sent. Press **< ENTER >** to start.*
 3. Select the file that needs to be uploaded. The message **"Are you sure?"** will be displayed. Press **< ENTER >**.
    >**If the selected file is incorrect, the upgrade will fail, and the display will go back to the main interface.**
    >**Repeat steps 1-3 using the correct file**.
-
 4. If the selected file is correct, the upgrade will start. DO NOT turn off the power or disconnect the USB during the process. USB update can take several minutes to complete.
 5. When the update is complete, the fixture will automatically reboot.
 6. Go to Fixture Information on the product’s menu map and confirm the firmware revision.
@@ -50,5 +51,8 @@
 8.	Go to the target fixture’s main menu and confirm that the firmware version has been updated.
 9.	Reboot the target fixture.
 
+### Special Notes
+* A Force Upload process requires a target fixture (the fixture that needs a Force Upload and a main fixture (the fixture that controls the upload process).
+* The Force Upload process can only be done one target fixture at a time.
 
 &nbsp;
