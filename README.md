@@ -14,7 +14,6 @@
 &nbsp; 
 
 ## USB Software Update Instructions
-## USB Software Update Instructions
 1. Power on the product and plug the flash drive into the USB port.
 2. Once the flash drive has been detected, the message "**Upgrade Firmware**" will be displayed. Press **< ENTER >**.
    >If a different message appears on the display, search for the updated software in the main menu (**Update Firmware**) and select from ***Only This Fixture***, ***Multiple Fixture***, or ***Other Fixture Type***, and ***Fixture to Fixture***. A list of the updated software files will be displayed.
