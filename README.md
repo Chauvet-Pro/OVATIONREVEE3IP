@@ -17,6 +17,7 @@
 1. Power on the product and plug the flash drive into the USB port.
 2. Once the flash drive has been detected, the message "**Upgrade Firmware**" will be displayed. Press **< ENTER >**.
    >If a different message appears on the display, search for the updated software in the main menu (**Update Firmware**) and select from ***Only This Fixture***, ***Multiple Fixture***, or ***Other Fixture Type***. A list of the updated software files will be displayed.
+   >The ***Other Fixture Type*** option under **Upgrade Firmware** can only be selected for connected products compatible with the Upload 03 (the first 2 digits of the item code must be 03).
 3. Select the file that needs to be uploaded. The message **"Are you sure?"** will be displayed. Press **< ENTER >**.
    >**If the selected file is incorrect, the upgrade will fail, and the display will go back to the main interface.**
    >**Repeat steps 1-3 using the correct file**.
