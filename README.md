@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.303 - Ovation Reve E-3 IP](https://github.com/Chauvet-Pro/OVATIONREVEE3IP/blob/a2b9312aed83ef60c755517226be0c8de86ec8cc/firmware/V1.3.03.zip) 
+- Improved dimming performance
+  
 [V1.3.1 - Ovation Reve E-3 IP](https://github.com/Chauvet-Pro/OVATIONREVEE3IP/blob/main/firmware/V1.3.1.zip)
 - Internal Housekeeping -Non-critical update, no visible performance upgrade
 
